@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **EmmaNguyen0410/EmmaNguyen0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About me 
+I have 3 years of software engineering experience and 1+ year of bioinformatics and data analysis experience. 
+
+My interests: 
+- Genomics, Transcriptomics, and clinical data. 
+- Statistical and Machine Learning approaches for drug targets discovery. 
+- Data pipeline, Cloud and HPC for large scale data processing.
