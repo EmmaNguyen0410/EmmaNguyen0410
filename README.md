@@ -23,12 +23,17 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 
 # My side projects 
 
+## Current Projects 
+
 | Project Name | Description | Tech stack | Link | 
 | ----------- | ----------- | ----------- | ----------- |
 | RNA-seq pipeline | Simple pipeline for large RNA-seq datasets  | Nextflow, R, HPC, PBS, Apptainer | [here](https://github.com/EmmaNguyen0410/rna-seq-analysis) |
+| Survival analysis with TCGA isomiRs | Experiment with different survival models with isomiR as predictors | Python, Scikit-learn | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
+| Car price prediction | Experiment with classification models to predict car price | Python, Scikit-learn | [here](https://github.com/EmmaNguyen0410/car-purchase-prediction) 
 | Etutoring | Server side render, MVC web for education | HTML, JavaScript, CSS, NodeJS | [here](https://github.com/EmmaNguyen0410/Etutor) |
-| Survival analysis with TCGA isomiRs | Experiment different survival models with isomiR as predictors | Python, Scikit-learn | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
-
+| Xtutor | Client side render, MVC web for education | ReactJS, ExpressJS | [BE](https://github.com/EmmaNguyen0410/Xtutor-be), [FE](https://github.com/EmmaNguyen0410/Xtutor-fe) |
+| Music listening behavior | A wide range of visualisations created by R to analysis patterns in music listening| R | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
+| Northwind sale analysis | Analysis of sale data with SQL | SQL | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
 
 
 
