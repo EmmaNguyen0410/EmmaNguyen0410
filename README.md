@@ -17,7 +17,7 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 
 # My interests
 - Genomics, Transcriptomics, and clinical data. 
-- Statistical and Machine Learning approaches for drug targets discovery and healthcare enhancement. 
+- Statistical and Machine Learning approaches for drug targets discovery and wellbeing enhancement. 
 - Data pipeline, Cloud and HPC for large scale data processing.
 - Optimisation and algorithms.
 - Scalable and high performance software development.
