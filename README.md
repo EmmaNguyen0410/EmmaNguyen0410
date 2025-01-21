@@ -33,8 +33,8 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 | Car price prediction | Experiment with classification models to predict car price | Python, Scikit-learn | [here](https://github.com/EmmaNguyen0410/car-purchase-prediction) 
 | Etutoring | Server side render, MVC web for education | HTML, JavaScript, CSS, NodeJS | [here](https://github.com/EmmaNguyen0410/Etutor) |
 | Xtutor | Client side render, MVC web for education | ReactJS, ExpressJS | [BE](https://github.com/EmmaNguyen0410/Xtutor-be), [FE](https://github.com/EmmaNguyen0410/Xtutor-fe) |
-| Music listening behavior | A wide range of visualisations created by R to analysis patterns in music listening| R | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
-| Northwind sale analysis | Analysis of sale data with SQL | SQL | [here](https://github.com/EmmaNguyen0410/isomiR-survival-analysis) |
+| Music listening behavior | A wide range of visualisations created by R to analysis patterns in music listening| R | [here](https://github.com/EmmaNguyen0410/music-analysis) |
+| Northwind sale analysis | Analysis of sale data with SQL | SQL | [here](https://github.com/EmmaNguyen0410/Northwind-sale-analysis) |
 
 
 
