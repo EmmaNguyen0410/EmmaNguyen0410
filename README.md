@@ -25,7 +25,7 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 # My side projects 
 
 ## Current Projects 
-
+https://github.com/EmmaNguyen0410/auth-service
 | Project Name | Description | Tech stack | Link | 
 | ----------- | ----------- | ----------- | ----------- |
 | RNA-seq pipeline | Simple pipeline for large RNA-seq datasets  | Nextflow, R, HPC, PBS, Apptainer | [here](https://github.com/EmmaNguyen0410/rna-seq-analysis) |
@@ -35,7 +35,7 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 | Xtutor | Client side render, MVC web for education | ReactJS, ExpressJS | [BE](https://github.com/EmmaNguyen0410/Xtutor-be), [FE](https://github.com/EmmaNguyen0410/Xtutor-fe) |
 | Music listening behavior | A wide range of visualisations created by R to analysis patterns in music listening| R | [here](https://github.com/EmmaNguyen0410/music-analysis) |
 | Northwind sale analysis | Analysis of sale data with SQL | SQL | [here](https://github.com/EmmaNguyen0410/Northwind-sale-analysis) |
-
+| Microservices implementation | This project aims to deploy a demo microservice system | Java, Spring, Kubernetes, EC2, EKS, Jenkins | [auth](https://github.com/EmmaNguyen0410/auth-service) |
 
 
 
