@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 I have 3 years of software engineering experience and 1+ year of bioinformatics and data analysis experience. 
 
 # My interests
-- Genomics, Transcriptomics, and clinical data. 
-- Statistical and Machine Learning approaches for drug targets discovery and wellbeing enhancement. 
 - Data pipeline, Cloud and HPC for large scale data processing.
 - Optimisation and algorithms.
 - Scalable and high performance software development.
+- Genomics, Transcriptomics, and clinical data. 
+- Statistical and Machine Learning approaches for drug targets discovery and wellbeing enhancement. 
 
 # My side projects 
 
