@@ -38,6 +38,5 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 | Etutoring | Server side render, MVC web for education | HTML, JavaScript, CSS, NodeJS | [here](https://github.com/EmmaNguyen0410/Etutor) |
 | Xtutor | Client side render, MVC web for education | ReactJS, ExpressJS | [BE](https://github.com/EmmaNguyen0410/Xtutor-be), [FE](https://github.com/EmmaNguyen0410/Xtutor-fe) |
 | Music listening behavior | A wide range of visualisations created by R to analysis patterns in music listening| R | [here](https://github.com/EmmaNguyen0410/music-analysis) |
-
-
+| Realtime Data Streaming | A simple real-time data streaming pipeline, covering each phase from data ingestion to processing and finally storage | Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra | [here](https://github.com/EmmaNguyen0410/real_time_pipeline) |
 
