@@ -19,8 +19,9 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 - Data pipeline, Cloud and HPC for large scale data processing.
 - Optimisation and algorithms.
 - Scalable and high performance software development.
-- Genomics, Transcriptomics, and clinical data. 
-- Statistical and Machine Learning approaches for drug targets discovery and wellbeing enhancement. 
+- Genomics, Transcriptomics, and clinical data.
+- Finance data.
+- Statistical and Machine Learning. 
 
 # My side projects 
 
