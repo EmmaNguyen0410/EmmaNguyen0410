@@ -31,8 +31,8 @@ I have 3 years of software engineering experience and 1+ year of bioinformatics 
 | ----------- | ----------- | ----------- | ----------- |
 | TCGA cancer patient data pipeline | A demo ELT pipeline for processing health data | Snowflake, dbt, Airflow, Astronomer, Python | [here](https://github.com/EmmaNguyen0410/tcga_elt_pipeline) |
 | Northwind sale analysis | Analysis of sale data with basic to advanced SQL | SQL | [here](https://github.com/EmmaNguyen0410/Northwind-sale-analysis) |
-| RNA-seq pipeline | Parallel processing in High Computing Cluster for large RNA-seq datasets | Nextflow, R, HPC, PBS, Apptainer | [here](https://github.com/EmmaNguyen0410/rna-seq-analysis) |
 | Enhanced Multispecies IsomiR Analyzer Tool | A comprehensive tool to analyse isomiR datasets of multiple species and samples | Python, R, Shell | [here](https://github.com/daysay24/E.M.M.A-Enhanced-Multispecies-IsomiR-Analyzer-Tool)
+| RNA-seq pipeline | Parallel processing in High Computing Cluster for large RNA-seq datasets | Nextflow, R, HPC, PBS, Apptainer | [here](https://github.com/EmmaNguyen0410/rna-seq-analysis) |
 | Microservices implementation (MVP) | This project aims to deploy a demo microservice system | Java, Spring, Kubernetes, EC2, Jenkins | [here](https://github.com/stars/EmmaNguyen0410/lists/microservices-backend) |
 | Etutoring | Server side render, MVC web for education | HTML, JavaScript, CSS, NodeJS | [here](https://github.com/EmmaNguyen0410/Etutor) |
 | Xtutor | Client side render, MVC web for education | ReactJS, ExpressJS | [BE](https://github.com/EmmaNguyen0410/Xtutor-be), [FE](https://github.com/EmmaNguyen0410/Xtutor-fe) |
